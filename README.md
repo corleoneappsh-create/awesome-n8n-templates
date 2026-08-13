@@ -75,6 +75,14 @@
 
 ---
 
+## Make Templates Production-Ready
+
+Before activating a downloaded workflow in production, review its credentials, webhook paths, high-impact nodes, and failure behavior. Use the free [n8n Workflow Preflight](https://github.com/corleoneappsh-create/n8n-workflow-preflight-action) before deployment and the free [n8n Failed Execution Doctor](https://github.com/corleoneappsh-create/n8n-failed-execution-doctor-public) after a failed run.
+
+For deeper reports and batch incident diagnosis, the optional [n8n Reliability Toolkit Pro — $29 one-time](https://zbewt1-yh.myshopify.com/cart/43173943803966:1?checkout&ref=github_awesome_templates&utm_source=github&utm_medium=repository&utm_campaign=n8n_reliability_toolkit&utm_content=awesome_templates_reliability) bundles Pro preflight reporting with Incident Doctor Pro. No subscription is required.
+
+---
+
 ## Why n8n?
 
 [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) is an open-source workflow automation platform that lets you connect anything to everything. Unlike closed-source alternatives, n8n gives you full control over your data and infrastructure. Key advantages include:
